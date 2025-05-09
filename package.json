@@ -4,7 +4,8 @@
   "description": "Esercizio con Node JS e NPM",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "watch": "node --watch index.js"
   },
   "keywords": [
     "Boolean",
