@@ -1,0 +1,16 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Esercizio con Node JS e NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Boolean",
+    "Classe",
+    "#144"
+  ],
+  "author": "Federico Bacci",
+  "license": "ISC"
+}
