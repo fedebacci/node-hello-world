@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "startWithParam": "node index.js \"Frase passata come parametro\"",
     "watch": "node --watch index.js"
   },
   "keywords": [

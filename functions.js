@@ -1,4 +1,4 @@
-const greet = (phrase = "Hello World") => {
+const greet = (phrase = "Hello Boolean") => {
     return phrase;
 }
 
